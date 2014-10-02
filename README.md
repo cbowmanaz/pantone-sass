@@ -1,4 +1,4 @@
-pantone-sass
+lpantone-sass
 ============
 
 Pantone Matching System - Sass Variables 
@@ -9,4 +9,7 @@ Include to sass file
 
 Simple syntax
 
-    $pms-colorname
+    $pms-color-name
+
+All color values pulled from
+http://www.labelpartners.com/pantone_coated_table.html
