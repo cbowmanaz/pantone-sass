@@ -1,4 +1,4 @@
-lpantone-sass
+pantone-sass
 ============
 
 Pantone Matching System - Sass Variables 
